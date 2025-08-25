@@ -42,7 +42,7 @@ This is a static website, so setting it up is very simple.
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-portfolio-repo.git
+Git clone  https://sahilbiswas12-sky.github.io/Personal-Portfolio/
 
 Navigate to the project directory:
 
